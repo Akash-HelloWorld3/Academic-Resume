@@ -92,8 +92,8 @@ sections:
               • Automated repetitive operational tasks, and DevOps monitoring activity and improved the metrics which saved about 12 manual hours per week.
 
               • Developed new restful APIs using Golang and added functionality for rating the charges applied to the customer.
-              
-              • Continuous Integration/Deployment Pipeline Integration, documentation, pull requests, code reviews, DevOps monitoring and unit/integration/e2e testing
+
+              • Continuous Integration/Deployment Pipeline Integration, documentation, pull requests, code reviews, DevOps monitoring and unit/integration/e2e testing.
         - title: Software Development Engineer Intern
           company: CSG Systems International
           company_url: 'https://www.csgi.com/'
@@ -101,7 +101,16 @@ sections:
           location: Bengaluru, Karnataka, India
           date_start: '2021-12-06'
           date_end: '2022-07-19'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+• Performed data migration from a legacy data source, by developing a new Go-based transformation tool which reduced the task execution time by 60%.
+
+• Implemented a highly efficient Bulk Load functionality using Golang, PostgreSQL, Kubernetes CronJob for on-premise and Lambda for the AWS.
+
+platform. To optimize the uploading of subscribers' data in chunks to the Database, thus reducing the CPU and Memory of the Pods and ECS tasks.
+
+• Implemented Seagull component test cases for generating traffic (3GPP protocol) to test the functionality of the Diameter microservice.
+
+• Enhanced the internal tools which resulted in improved performance and reliability. Managed webservers hosted in EC2 instances in AWS.
         - title: Software Engineer Intern
           company: Onfluence
           company_url: ''
@@ -109,7 +118,9 @@ sections:
           location: Emden, Lower Saxony Land, Germany
           date_start: '2020-08-01'
           date_end: '2020-11-05'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+Implemented designs, and backend functionalities and created the website for ReflectSecurity a Cyber Security company, Headquartered in Chennai, India using HTML, CSS, Javascript and WordPress Designs. Part of a Web Development Team in Emden, NI, Germany.
+
         - title: Machine Learning Intern
           company: TheSmartBridge
           company_url: 'https://www.thesmartbridge.com/'
