@@ -22,7 +22,7 @@ organizations:
     url: https://www.csgi.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My Area of interests include distributed systems, cloud computing, backend development and problem solving.
+bio: My area of interests include distributed systems, cloud computing, backend development and problem solving.
 
 # Interests to show in About widget
 interests:
