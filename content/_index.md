@@ -116,7 +116,8 @@ sections:
           location: Emden, Lower Saxony Land, Germany
           date_start: '2020-08-01'
           date_end: '2020-11-05'
-          description: temp
+          description: |2-
+              • Part of a Web Development, implemented designs, and backend functionalities and created the website for ReflectSecurity a Cyber Security company, Headquartered in Chennai, India using HTML, CSS and Javascript.
         - title: Machine Learning Intern
           company: TheSmartBridge
           company_url: 'https://www.thesmartbridge.com/'
