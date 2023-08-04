@@ -13,11 +13,11 @@ main:
   - name: Experience
     url: '#experience'
     weight: 30
-  - name: Projects
-    url: '#projects'
-    weight: 40
   - name: Certifications
     url: '#certifications'
+    weight: 40
+  - name: Projects
+    url: '#projects'
     weight: 50
   - name: Publications
     url: '#publications'
@@ -26,7 +26,7 @@ main:
     url: '#talks'
     weight: 70
   - name: Extracurricular
-    url: '#gallery'
+    url: '#extracurricular'
     weight: 80
   - name: CV
     url: uploads/resume.pdf
