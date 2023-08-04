@@ -23,24 +23,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Journal for Multidisciplinary Research"
+publication: "*International Journal for Multidisciplinary Research, 1*(1)"
 publication_short: "IJFMR"
 
 abstract: 	Heart disease is a prevalent health condition with significant implications for patient health and well-being. Accurate and timely diagnosis plays a crucial role in effective treatment and management. In this study, we propose a combined approach using SelectKBest, Gaussian Naive Bayes (GNB), and Gradient Boosting Machines (GBM) to develop a robust predictive model for heart disease diagnosis. The SelectKBest algorithm is employed to identify the most informative features from the Statlog Heart Disease dataset. Statistical measures such as chi-squared test are utilized to select the top K features that exhibit the strongest associations with the target variable. The selected features are then used to train a GNB classifier, capturing the probabilistic relationships between the features and the diagnosis of heart disease. Predictions generated from the GNB model are combined with the original features, creating an extended feature matrix. Subsequently, a GBM ensemble model is trained on the extended feature matrix, leveraging the sequential combination of weak learners to improve the overall predictive performance. To evaluate the effectiveness of the proposed approach, extensive experiments are conducted on the Statlog Heart Disease dataset. Performance metrics including accuracy, precision, recall, and F1 score are used to compare the combined SelectKBest-GNB-GBM approach against individual classifiers and existing methods.
 
 # Summary. An optional shortened abstract.
-summary: The proposed work focused on developing a predictive model for heart disease using the
-Statlog Heart Disease dataset. Several classifiers were evaluated, including Decision Tree, Naive Bayes,
-Random Forest, Logistic Regression, K-Nearest Neighbors, Gradient Boosting, Gaussian Naive Bayes, as
-well as an ensemble approach combining SelectKBest feature selection with Gaussian Naive Bayes and
-Gradient Boosting Machines. The results of the experiments revealed valuable insights into the
-performance of these classifiers on the heart disease dataset. Gradient Boosting emerged as the top performing individual classifier, achieving the highest accuracy among the tested models. Logistic
-Regression and Random Forest also exhibited strong performances, while Naive Bayes and Gaussian
-Naive Bayes achieved moderate accuracies. The proposed ensemble approach, which combined
-SelectKBest feature selection with Gaussian Naive Bayes and Gradient Boosting, outperformed individual
-classifiers, demonstrating the highest accuracy of all tested models. This highlights the potential benefits
-of leveraging feature selection techniques and ensemble methods to improve the predictive power of the
-model.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
