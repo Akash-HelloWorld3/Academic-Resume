@@ -104,7 +104,7 @@ sections:
           company_logo: org-x
           location: Hyderabad, Telengana, India
           date_start: '2020-05-01'
-          date_end: '2022-06-10'
+          date_end: '2020-06-10'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
@@ -209,17 +209,17 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  # - block: collection
-  #   id: featured
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     columns: '2'
-  #     view: card
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   - block: collection
     content:
       title: Recent Publications
