@@ -112,7 +112,7 @@ sections:
         - title: Software Engineer Intern
           company: Onfluence
           company_url: ''
-          company_logo: org-x
+          company_logo: onfluence_logo
           location: Emden, Lower Saxony Land, Germany
           date_start: '2020-08-01'
           date_end: '2020-11-05'
@@ -121,7 +121,7 @@ sections:
         - title: Machine Learning Intern
           company: TheSmartBridge
           company_url: 'https://www.thesmartbridge.com/'
-          company_logo: org-x
+          company_logo: thesmartbridge_logo
           location: Hyderabad, Telengana, India
           date_start: '2020-05-01'
           date_end: '2020-06-10'
