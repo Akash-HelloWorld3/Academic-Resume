@@ -58,6 +58,8 @@ sections:
           description: 10%
           icon: C++
           icon_pack: fas
+  - block: skills-test
+    id: skills
   - block: experience
     id: experience
     content:
