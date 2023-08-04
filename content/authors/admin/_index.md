@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-I am Sofware Engineer at CSG Systems International. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Sofware Engineer at CSG Systems International. Goal-oriented with on-time and high-quality product spirit. Grasping the positive vibes in setting effort and focusing on the task assigned. Skilled in Problem Solving and providing inputs to solve real-world problems/applications.
 {style="text-align: justify;"}
