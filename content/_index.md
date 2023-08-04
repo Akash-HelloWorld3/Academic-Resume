@@ -58,23 +58,6 @@ sections:
           description: 10%
           icon: C++
           icon_pack: fas
-  - block: Hello
-    id: skills
-    content:
-      title: Skills
-      items:
-        - name: GO
-          description: 90%
-          icon: golang
-          icon_pack: fab
-        - name: C
-          description: 100%
-          icon: C
-          icon_pack: fas
-        - name: C++
-          description: 10%
-          icon: C++
-          icon_pack: fas
   - block: experience
     id: experience
     content:
