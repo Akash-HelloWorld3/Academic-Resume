@@ -48,7 +48,7 @@ sections:
       items:
         - name: Go
           description: 90%
-          icon: Go
+          icon: {{< figure src="images/avatar3.JPG" id="temp" >}}
           icon_pack: fab
         - name: C
           description: 100%
