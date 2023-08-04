@@ -94,17 +94,17 @@ sections:
           company: Onfluence
           company_url: ''
           company_logo: org-x
-          location: Bengaluru, Karnataka, India
-          date_start: '2021-12-06'
-          date_end: '2022-07-19'
+          location: Emden, Lower Saxony Land, Germany
+          date_start: '2020-08-01'
+          date_end: '2020-11-05'
           description: Taught electronic engineering and researched semiconductor physics.
         - title: Machine Learning Intern
           company: TheSmartBridge
-          company_url: ''
+          company_url: 'https://www.thesmartbridge.com/'
           company_logo: org-x
           location: Hyderabad, Telengana, India
-          date_start: '2021-12-06'
-          date_end: '2022-07-19'
+          date_start: '2020-05-01'
+          date_end: '2022-06-10'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
