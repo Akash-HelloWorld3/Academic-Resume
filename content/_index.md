@@ -46,9 +46,9 @@ sections:
     content:
       title: Skills
       items:
-        - name: Go
+        - name: R
           description: 90%
-          icon: {{< figure src="images/avatar3.JPG" id="temp" >}}
+          icon: r-project
           icon_pack: fab
         - name: C
           description: 100%
