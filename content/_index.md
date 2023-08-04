@@ -58,7 +58,7 @@ sections:
           description: 10%
           icon: C++
           icon_pack: fas
-  - block: skillstests
+  - block: Hello
     id: skills
     content:
       title: Skills
