@@ -46,9 +46,9 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
+        - name: GO
           description: 90%
-          icon: r-project
+          icon: golang
           icon_pack: fab
         - name: C
           description: 100%
@@ -74,7 +74,7 @@ sections:
         - title: Software Development Engineer Grad
           company: CSG Systems International
           company_url: 'https://www.csgi.com/'
-          company_logo: org-gc
+          company_logo: csg_logo
           location: Bengaluru, Karnataka, India
           date_start: '2022-07-20'
           date_end: ''
@@ -97,7 +97,7 @@ sections:
         - title: Software Development Engineer Intern
           company: CSG Systems International
           company_url: 'https://www.csgi.com/'
-          company_logo: org-x
+          company_logo: csg_logo
           location: Bengaluru, Karnataka, India
           date_start: '2021-12-06'
           date_end: '2022-07-19'
