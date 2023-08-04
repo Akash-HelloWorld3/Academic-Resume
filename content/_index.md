@@ -279,8 +279,12 @@ sections:
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
+          name: Follow Me on Twitter
+          link: https://twitter.com/Akash_c18
+        - icon: instagram
+          icon_pack: fab
+          name: Follow Me on Instagram
+          link: https://www.instagram.com/_c.r.a.z.y_killer_/
         # - icon: skype
         #   icon_pack: fab
         #   name: Skype Me
