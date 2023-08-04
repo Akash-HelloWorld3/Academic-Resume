@@ -59,7 +59,6 @@ sections:
           icon: C++
           icon_pack: fas
   - block: github.Akash-HelloWorld3.skillstests
-    id: skills
   - block: experience
     id: experience
     content:
