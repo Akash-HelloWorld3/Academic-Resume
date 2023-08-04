@@ -48,7 +48,7 @@ sections:
       items:
         - name: R
           description: 90%
-          icon: r-project
+          icon: "https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"
           icon_pack: fab
         - name: Statistics
           description: 100%
