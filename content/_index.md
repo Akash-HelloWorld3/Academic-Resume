@@ -80,12 +80,19 @@ sections:
           date_end: ''
           description: |2-
               • Working with the Diameter Team involving Research and Development of Ascendon Rating and Charging (ARC) a Next Generation Telecom product, leveraging the latest edge-cutting technologies., Core Backend Development of Cloud-based Digital BSS (ARC) solutions with DevOps methodology.
+
               • Designed and rebuilt the 4G services to allow the high-speed wireless communication standard VoLTE calls to authenticate, authorise and charge them.
+
               • Engineered a solution to utilize the existing code of 4G(Diameter/PCRF) and 5G(nCHF/nCHF-PCF) microservices from AWS cloud-dependent service into a StandAlone service which can be deployed on any cloud platform and on-premises platform using Kubernetes and OpenShift.
+
               • Collaborated with team to re-architect the entire 4G and 5G systems to reduce load and created a new microservice (DMS) using Golang, Docker and terraform to support and handle the CDRs (Call Detailed Records) from 4G and 5G systems for offline processing and user report bill generation.
+
               • Optimized and improved the caching system for 5G microservices using Redis which reduced the product cost by 11% and built CI/CD pipelines for deploying the 4G/5G microservices in an OpenShift cluster of an on-premise platform using Azure DevOps release pipelines.
+
               • Automated repetitive operational tasks, and DevOps monitoring activity and improved the metrics which saved about 12 manual hours per week.
+
               • Developed new restful APIs using Golang and added functionality for rating the charges applied to the customer.
+              
               • Continuous Integration/Deployment Pipeline Integration, documentation, pull requests, code reviews, DevOps monitoring and unit/integration/e2e testing
         - title: Software Development Engineer Intern
           company: CSG Systems International
