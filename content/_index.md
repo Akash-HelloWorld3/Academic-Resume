@@ -103,11 +103,8 @@ sections:
           date_end: '2022-07-19'
           description: |2-
           • Performed data migration from a legacy data source, by developing a new Go-based transformation tool which reduced the task execution time by 60%.
-
           • Implemented a highly efficient Bulk Load functionality using Golang, PostgreSQL, Kubernetes CronJob for on-premise and Lambda for the AWS platform. To optimize the uploading of subscribers' data in chunks to the Database, thus reducing the CPU and Memory of the Pods and ECS tasks.
-
           • Implemented Seagull component test cases for generating traffic (3GPP protocol) to test the functionality of the Diameter microservice.
-
           • Enhanced the internal tools which resulted in improved performance and reliability. Managed webservers hosted in EC2 instances in AWS.
         - title: Software Engineer Intern
           company: Onfluence
