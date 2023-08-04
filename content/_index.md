@@ -46,17 +46,17 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
+        - name: Go
           description: 90%
-          icon: "https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"
+          icon: Go
           icon_pack: fab
-        - name: Statistics
+        - name: C
           description: 100%
-          icon: chart-line
+          icon: C
           icon_pack: fas
-        - name: Photography
+        - name: C++
           description: 10%
-          icon: camera-retro
+          icon: C++
           icon_pack: fas
   - block: experience
     id: experience
