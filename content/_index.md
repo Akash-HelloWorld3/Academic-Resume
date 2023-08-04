@@ -90,6 +90,22 @@ sections:
           date_start: '2021-12-06'
           date_end: '2022-07-19'
           description: Taught electronic engineering and researched semiconductor physics.
+        - title: Software Engineer Intern
+          company: Onfluence
+          company_url: ''
+          company_logo: org-x
+          location: Bengaluru, Karnataka, India
+          date_start: '2021-12-06'
+          date_end: '2022-07-19'
+          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Machine Learning Intern
+          company: TheSmartBridge
+          company_url: ''
+          company_logo: org-x
+          location: Hyderabad, Telengana, India
+          date_start: '2021-12-06'
+          date_end: '2022-07-19'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
