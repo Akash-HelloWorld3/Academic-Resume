@@ -142,29 +142,61 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - certificate_url: https://learn.ineuron.ai/certificate/11499149-d531-4f12-a733-4b32e27fbdd2
+          date_end: '2023-05-14'
+          date_start: '2022-10-04'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: iNeuron
+          organization_url: https://ineuron.ai/
+          title: BeADevOpsPro
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
+        - certificate_url: https://certificate.codingninjas.com/verify/0cf80200ac26c7a0
+          date_end: '2022-08-04'
+          date_start: '2022-04-14'
           description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          organization: CodingNinjas
+          organization_url: https://www.codingninjas.com/
+          title: Data Structures in C++
+          url: ''
+        - certificate_url: https://certificate.codingninjas.com/verify/a1f2c39845dd531b
+          date_end: '2022-03-14'
+          date_start: '2020-04-13'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: CodingNinjas
+          organization_url: https://www.codingninjas.com/
+          title: 'Introduction to C++'
+          url: ''
+        - certificate_url: https://www.credly.com/badges/1bb3a123-ed05-4601-9529-6b9d9333806a
+          date_end: ''
+          date_start: '2020-02-18'
+          description: ''
+          organization: CISCO
+          organization_url: https://www.cisco.com/site/in/en/index.html
+          title: 'CCNA: Introduction to Networks'
+          url: ''
+        - certificate_url: https://drive.google.com/file/d/1KTtcwgDU9FY4cTbhmX5Ejks4JxXQTjzr/view
+          date_end: ''
+          date_start: '2019-04-10'
+          description: ''
+          organization: SafeSecurity
+          organization_url: https://www.safe.security/
+          title: 'Lucideus Certified Security Professional'
+          url: ''
+        - certificate_url: https://www.hackerrank.com/certificates/a4a6b16cb89a
+          date_end: ''
+          date_start: '2022-02-18'
+          description: ''
+          organization: HackerRank
+          organization_url: https://www.hackerrank.com/
+          title: 'Problem Solving (Basic)'
+          url: ''
+        - certificate_url: https://www.hackerrank.com/certificates/65da845ed536
+          date_end: ''
+          date_start: '2022-10-22'
+          description: ''
+          organization: HackerRank
+          organization_url: https://www.hackerrank.com/
+          title: 'SQL (Intermediate)'
           url: ''
     design:
       columns: '2'
