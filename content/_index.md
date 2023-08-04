@@ -186,7 +186,7 @@ sections:
           date_end: ''
           date_start: '2022-02-18'
           description: ''
-          organization: HackerRank
+          organization: hackerrank
           organization_url: https://www.hackerrank.com/
           title: 'Problem Solving (Basic)'
           url: ''
@@ -194,7 +194,7 @@ sections:
           date_end: ''
           date_start: '2022-10-22'
           description: ''
-          organization: HackerRank
+          organization: hackerrank
           organization_url: https://www.hackerrank.com/
           title: 'SQL (Intermediate)'
           url: ''
