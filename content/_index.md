@@ -72,7 +72,7 @@ sections:
         - title: Software Development Engineer Grad
           company: CSG Systems International
           company_url: 'https://www.csgi.com/'
-          company_logo: csg_logo.png
+          company_logo: csg_logo
           location: Bengaluru, Karnataka, India
           date_start: '2022-07-20'
           date_end: ''
